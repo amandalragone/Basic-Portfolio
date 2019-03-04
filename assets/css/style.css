@@ -11,7 +11,7 @@ body {
     background-color: #ffffff;
     border-bottom-color: #cccccc;
     border-bottom: 2px;
-    border-bottom-style: solid;
+    border-bottom-style: outset;
     overflow: auto;
     height: 80px;
     margin-bottom: 30px;
@@ -35,7 +35,6 @@ nav {
 }
 
 a {
-    text-align: center;
     padding-left: 30px;
 }
 
@@ -55,7 +54,7 @@ section {
     padding-top: 10px;
     border-bottom: 2px;
     border-bottom-color: #777777;
-    border-bottom-style: solid;
+    border-bottom-style: inset;
     margin-left: 30px;
     margin-right: 30px;
 }
