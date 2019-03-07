@@ -19,7 +19,7 @@ body {
     margin: auto;
 }
 
-header {
+#my_name {
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -81,20 +81,6 @@ section {
     margin-right: 30px;
 }
 
-#first_row {
-    float: left;
-}
-
-#second_row {
-    clear: both;
-    float: left;
-}
-
-#third_row {
-    clear: both;
-    float: left;
-}
-
 img {
     width: 200px;
     height: 200px;
@@ -110,7 +96,6 @@ img {
 
 .image_name {
     background-color: #4aaaa5;
-    float: left;
 }
 
 #about_me {
